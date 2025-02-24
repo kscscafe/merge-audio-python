@@ -3,7 +3,7 @@ import re
 from pydub import AudioSegment
 
 # 入力フォルダ
-input_folder = "/Users/ksugizaki/Library/CloudStorage/OneDrive-個人用/10_MacBookPro2018/メモ・作業ログ/Python/combine_audio_HSK4"
+input_folder = "/Users/インプットするフォルダを指定"
 output_file = "combined_audio_mix.mp3"
 
 # 無音の設定
