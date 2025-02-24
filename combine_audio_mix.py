@@ -3,7 +3,7 @@ import re
 from pydub import AudioSegment
 
 # 入力フォルダ
-input_folder = "/Users/インプットするフォルダを指定"
+input_folder = "/Users/インプットするファイルが格納されたフォルダを指定"
 output_file = "combined_audio_mix.mp3"
 
 # 無音の設定
