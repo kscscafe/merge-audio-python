@@ -1,7 +1,7 @@
 # merge-audio-python
 
 
-combine_audio_mix.pyは、次の順番で音声が繰り返されます。\n
+combine_audio_mix.pyは、次の順番で音声が繰り返されます。
 	1.	1秒の無音
 	2.	HSK4_1 の音声
 	3.	0.5秒の無音
